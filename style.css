@@ -211,7 +211,7 @@ section {
 }
 
 /* FULL MOBILE RESPONSIVE */
-@media (max-width: 800px) {
+@media (max-width: 750px) {
 
     /* HEADER STACK */
     .top-header {
